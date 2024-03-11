@@ -9,7 +9,7 @@ This README provides documentation for a simple Library Management system applic
 If you're working with a Git repository, clone it to your local machine using Git commands or download the source code as a ZIP file and extract it to a local directory. Command to clone the repository on the command prompt.
 
 ```
-git clone
+git clone https://github.com/Vishnukchandran/library_management_system.git
 ```
 
 Navigate to the downloaded folder and open the terminal or command prompt on the same folder path, type
@@ -59,7 +59,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ### 7.Live page
 
-You can access the live page from [here]()
+You can access the live page from [here](https://vkc-formik.netlify.app/)
 
 ### 8.Credits
 
